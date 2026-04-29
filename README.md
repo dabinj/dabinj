@@ -15,7 +15,7 @@ interests: [NGS, Bioinformatics, Microbiome, Metagenomics, Pipeline Development]
 current_focus: Building practical and reproducible bioinformatics workflows with AI
 blog: https://www.masanam.co.kr
 ```
-_My profile picture is approximately 500x cooler than I am in real life._
+***My profile picture is approximately 500x cooler than I am in real life.***
 
 ## 🏢 Experience
 
