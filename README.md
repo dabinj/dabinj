@@ -43,7 +43,7 @@ _My profile picture is approximately 500x cooler than I am in real life._
 
 ## 💻 Languages & Analysis
 
-<img src="https://skillicons.dev/icons?i=r,python,bash,md&theme=dark" />
+<img src="https://skillicons.dev/icons?i=r,python,bash,md,css,html&theme=dark" />
 
 ## 🛠️ Development & Environment
 
