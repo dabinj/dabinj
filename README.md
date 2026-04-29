@@ -29,6 +29,7 @@ blog: https://www.masanam.co.kr
   - Developed and maintained whole metagenome analysis pipelines
 
 ## 🎓 Education
+  - **M.S. in Molecular Biotechnology** — Research focused on the human gut microbiome.
   - **A Master Learning Through Failure**
 
 
