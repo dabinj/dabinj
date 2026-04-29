@@ -33,26 +33,23 @@ blog: https://www.masanam.co.kr
 
 
 
-## Lectures
+## 👨🏻‍🏫 Lectures
 
 - **Rural Development Administration** - Bioinformatics and NGS analysis lecture (2025)
 - **Rural Development Administration** - Bioinformatics and NGS analysis lecture (2024)
 
-## Tech Stack
 
-<div align="center">
-
-### Languages & Analysis
+## 💻 Languages & Analysis
 
 <img src="https://skillicons.dev/icons?i=r,python,bash,md&theme=dark" />
 
-### Development & Environment
+## 🛠️ Development & Environment
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&theme=dark" />
 
 </div>
 
-### Bioinformatics & Workflow
+### 🔍 Bioinformatics & Workflow
 
 <table>
   <tr>
@@ -85,7 +82,7 @@ blog: https://www.masanam.co.kr
   </tr>
 </table>
 
-## Blog
+## 🖼️ Blog
 
 <div align="center">
 
