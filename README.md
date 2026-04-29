@@ -24,7 +24,7 @@ blog: https://www.masanam.co.kr
   - Developed EZ-VISION, a web-based visualization platform
 
 - **Theragenbio, Inc.** - Bioinformatics Analyst (Jan 2022 - Jan 2024)
-  - Led 16S full-length analysis TF
+  - Full-length 16S Analysis TF Lead
   - Developed and maintained amplicon analysis pipelines
   - Developed and maintained whole metagenome analysis pipelines
 
