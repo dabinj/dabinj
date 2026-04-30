@@ -24,7 +24,7 @@ blog: https://www.masanam.co.kr
   - Developed and operated LR-WMS pipelines
   - Developed EZ-VISION, a web-based visualization platform
 
-- **Theragenbio, Inc.** - Bioinformatics Analyst (Jan 2022 - Jan 2024)
+- **Theragen Bio Co., Ltd.** - Bioinformatics Analyst (Jan 2022 - Jan 2024)
   - Full-length 16S Analysis TF Lead
   - Developed and maintained amplicon analysis pipelines
   - Developed and maintained whole metagenome analysis pipelines
