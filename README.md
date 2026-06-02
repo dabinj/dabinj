@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name : Dabin Jeon (Masanam)
+name : Dabin Jeon (a.k.a. Masanam)
 location: Seoul, South Korea
 interests: [NGS, Bioinformatics, Microbiome, Metagenomics, Pipeline Development]
 current_focus: Building practical and reproducible bioinformatics workflows with AI
